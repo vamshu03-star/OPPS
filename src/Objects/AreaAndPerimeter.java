@@ -16,4 +16,4 @@ public class AreaAndPerimeter {
 }
 class Rectangle{
     int area,perimeter;
-}
+};
