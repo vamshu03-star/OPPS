@@ -10,13 +10,13 @@ public class Books {
         b1.bookNumber=sc.nextInt();
         System.out.print("Enter Price of the Book : ");
         b1.price=sc.nextInt();
-        System.out.println("Book Name = "+b1.BookName);
-        System.out.println("Book Id = "+b1.bookNumber);
-        System.out.print("Price of the book = "+b1.price);
+        System.out.println("Book Name = "+ b1.BookName);
+        System.out.println("Book Id = "+ b1.bookNumber);
+        System.out.print("Price of the book = "+ b1.price);
     }
 }
 class Book{
     String BookName;
     int price;
     int bookNumber;
-};
+}
