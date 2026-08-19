@@ -20,6 +20,7 @@ class Book{
         isbn = i;
         price = pr;
     }
+
     void display()
     {
         System.out.println("Title = "+title);
