@@ -6,6 +6,7 @@ class Book{
     double price;
     Book(){
         title = "";
+        //just testing
         author = "";
         publisher = "";
         year = 0;
