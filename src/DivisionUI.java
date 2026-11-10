@@ -5,7 +5,7 @@ public class DivisionUI extends JFrame implements ActionListener {
     JTextField num1,num2,result;
     JButton divide;
     DivisionUI(){
-        setTitle("Integer Division");
+        this.setTitle("Integer Division");
         setSize(400,250);
         setLayout(new GridLayout(4,2,2,5));
          add(new JLabel("Num1: "));
