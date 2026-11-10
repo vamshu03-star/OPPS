@@ -11,6 +11,7 @@ public class DivisionUI extends JFrame implements ActionListener {
          add(new JLabel("Num1: "));
          num1 = new JTextField();
          add(num1);
+         //add
 
          add(new JLabel("Num2: "));
          num2 = new JTextField();
